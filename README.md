@@ -9,6 +9,7 @@ Fullstack Javascript/Typescript Developper | NestJS, React, React Native, NextJS
 
 ## About Me
 - I'm a self-taught programmer, interested in building increasingly complex projects.
+- I am a huge advocate for minimalism and simplicity, the less code, the better.
 - I speak both English and French, currently learning Spanish.
 - I love reading books and listening to music and podcasts.
 - My favourite games 🎮: Dark Souls, Bloodborne, Hollow Knight and NieR:Automata
