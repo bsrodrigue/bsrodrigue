@@ -18,6 +18,6 @@ Fullstack Javascript/Typescript Developper | NestJS, React, React Native, NextJS
 ## Projects & Contributions
 - Bibliobooks, a mobile app built with React Native and Expo for book lovers wishing to read and share their writings: [Bibliobooks](https://github.com/bsrodrigue/stalnov-native)
 - Otapix, a web based puzzle game where people can create, edit and share their puzzle packs based on the famous 4pics1word game: [Otapix](https://github.com/bsrodrigue/otapix)                            [![Netlify Status](https://api.netlify.com/api/v1/badges/33938cc9-c126-43c1-9c93-659b98fb0b8f/deploy-status)](https://app.netlify.com/sites/dev-otapix/deploys)
-- Beanlang (clox), a small interpreter written in C. It is just a passion project to learn about programming language design: [Beanlang](https://github.com/bsrodrigue/beanlang)
+- Beanlang (clox), a small interpreter written in C: [Beanlang](https://github.com/bsrodrigue/beanlang)
 - My personal website (b-rodrigue.com): [Brodrigue](https://github.com/bsrodrigue/brodrigue)
 
