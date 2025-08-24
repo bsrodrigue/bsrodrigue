@@ -1,6 +1,6 @@
 Senior Backend & Systems Engineer| Python, Go, C/C++ | Linux & Networking Enthusiast and Minimalist 
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,c,c++,flutter,nest,linux,vim,figma,vite,bash,docker,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,c,cpp,django,linux,vim,bash,docker,firebase)](https://skillicons.dev)
 
 <div style="display: flex; justify-content: space-between">
   <img style="flex:1" src="https://github-readme-stats.vercel.app/api/top-langs?username=bsrodrigue&show_icons=true&locale=en&layout=compact" alt="bsrodrigue" />
