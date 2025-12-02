@@ -7,14 +7,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bsrodrigue&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bsrodrigue&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🧑 About Me
 - 🔧 Self-taught programmer, passionate about building **complex systems** with simple designs.  
 - 🧘 Advocate for **minimalism & clean code** — the less code, the better.  
